@@ -1,0 +1,21 @@
+# _config.yml
+ title: Wortlos durchs Web
+ author: Besse
+ email: wortkarg1982@gmail.com
+ description: >- # Schreibe eine kurze Beschreibung für deinen Blog.
+   Mit Worten durchs Web
+
+ theme: minima # Hier wählst du das Theme aus
+
+  # Optional: Füge Social Media Links hinzu (abhängig vom Theme)
+  # twitter_username: dein_twitter
+  # github_username:  dein-username
+
+  # --- Wichtig für Jekyll auf GitHub Pages ---
+  # Stelle sicher, dass baseurl leer ist, wenn du eine User/Org Page
+  #(username.github.io) hast
+ baseurl: "" # Der Pfad deines Blogs, z.B. /blog wenn er unter github.io/blog läge
+ url: "https://wortlos.github.io" # Deine Blog-URL
+
+  # Build settings
+ markdown: kramdown # Standard Markdown Prozessor für Jekyll
