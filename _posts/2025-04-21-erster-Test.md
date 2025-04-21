@@ -1,8 +1,7 @@
 ---
 layout: post # Gibt das Layout an (normalerweise 'post' für Blogartikel)
 title:  "Mein erster Blogpost!"
-date:   2025-04-21 14:50:00 +0200 # Genaues Datum und Uhrzeit (optional, aber gut für
-Sortierung)
+date:   2025-04-21 14:50:00 +0200 
 categories: jekyll update # Kategorien (optional)
 ---
 
