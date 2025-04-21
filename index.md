@@ -1,6 +1,8 @@
 ---
+layout: home
+title: Worltlos durchs Web
 ---
 
-# Hallo Welt!
+# Willkommen auf meinem Blog!
 
-Dies ist ein Test
+Hier findest du meine Beiträge.
